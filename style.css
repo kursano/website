@@ -1,0 +1,124 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Space Grotesk', sans-serif;
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+ul li {
+    margin: 9px auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 1px 24px;
+}
+
+ul li a:hover {
+    color: black;
+    background-color: white;
+}
+
+.navbar {
+    background-color: rgb(85, 86, 116);
+    height: 45px;
+}
+
+.cois {
+    background-image: url(https://w0.peakpx.com/wallpaper/101/95/HD-wallpaper-burgers-fast-food-delicious-food-sandwiches-harmful-food.jpg);
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+    color: blue;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 426px;
+}
+
+.heti {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     border: solid rgb(75, 79, 131); 
+     border-radius: 35px;
+    margin: 25px;
+    width: 610px;
+}
+
+.pizza {
+    display: inline-block;
+    color: white;
+    /* border: solid red; */
+    margin: 65px;
+    font-size: 45px;
+}
+
+.final {
+    /* display: inline-block; */
+    color: white;
+    display: flex;
+    box-sizing: border-box;
+    text-align: center;
+    /* border: solid pink; */
+    width: 300px;
+    margin-left: 190px;
+}
+
+.news {
+    background-color: rgb(90, 143, 130);
+    height: 300px;
+    display: flex;
+    padding-top: 0px;
+}
+
+#fine {
+    /* background-image: url(https://img.freepik.com/free-photo/delicious-cheeseburger_1232-503.jpg?w=740&t=st=1703102389~exp=1703102989~hmac=42e09d4e474db571d82eaef202e5645bf22083dec707605bf922e80059bf7c6b); */
+    background-image: url(https://media.designrush.com/inspiration_images/134802/conversions/_1511456315_653_apple-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    mix-blend-mode: color-burn;
+}
+
+#fine1 {
+    /* background-image: url(https://img.freepik.com/free-photo/tasty-burger-isolated-white-background-fresh-hamburger-fastfood-with-beef-cheese_90220-1063.jpg?w=740&t=st=1703103242~exp=1703103842~hmac=9a6d7d6a9c43fed5eb6d511e933a1b9e57029b683afce34a453c350d5bbbed8f); */
+    background-image: url(https://i.pinimg.com/originals/46/38/03/463803cac5ab18fb9c700f5a5c676aa2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 31px;
+     mix-blend-mode: color-burn; 
+}
+#fine2{
+    background-image: url(https://purepng.com/public/uploads/large/amazon-logo-s3f.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+      mix-blend-mode: color-burn;  
+}
+#fine3{
+    background-image: url(https://cdn.freebiesupply.com/logos/thumbs/2x/google-1-1-logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+       mix-blend-mode: color-burn;  
+}
+.neis{
+    background-color: rgb(90, 143, 130);
+    color: white;
+    /* border: solid red; */
+    text-align: center;
+    font-size: 27px;
+    padding-top: 10px;
+}
